@@ -1,34 +1,35 @@
 # Eduardo Gomes
 
-**Full Stack Developer • Information Systems Student • Building software that solves real business problems**
+**Full Stack Developer • Software Engineering • Building scalable business applications**
 
-I'm a Full Stack Developer focused on building scalable web applications, internal platforms and AI-powered solutions.
+I'm a Full Stack Developer focused on designing and building scalable web applications, internal platforms and AI-powered solutions that solve real business problems.
 
-Currently, I work at CentralEng, where I'm responsible for the company's technology ecosystem—from software development and automation to infrastructure and IT operations.
+Currently, I work at **CentralEng**, where I'm responsible for the company's technology ecosystem—from software development and process automation to infrastructure and IT operations.
 
-Besides developing products, I'm constantly improving my skills in software architecture, backend engineering and modern web technologies.
+My main interests are software architecture, backend engineering, AI integration and building products that remain maintainable as they grow.
 
 ---
 
-## About me
+## About Me
 
-- Full Stack Developer
-- Information Systems Student
-- Working with real production systems
-- Passionate about clean architecture and software engineering
-- Interested in AI, automation and scalable SaaS products
+* Full Stack Developer
+* Information Systems Student
+* Building production-ready business applications
+* Passionate about Software Engineering and Clean Architecture
+* Interested in AI, automation and scalable SaaS products
 
 ---
 
 ## Current Focus
 
-- React & TypeScript
-- FastAPI
-- PostgreSQL
-- Supabase
-- AI Integrations
-- Software Architecture
-- Product Engineering
+* Next.js & React
+* TypeScript
+* Python & FastAPI
+* PostgreSQL & Prisma
+* Docker
+* AI Integrations
+* Software Architecture
+* Product Engineering
 
 ---
 
@@ -36,73 +37,94 @@ Besides developing products, I'm constantly improving my skills in software arch
 
 ### Frontend
 
-- React
-- TypeScript
-- Tailwind CSS
-- Vite
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
 
 ### Backend
 
-- Python
-- FastAPI
-- Node.js
+* Python
+* FastAPI
+* Node.js
 
 ### Database
 
-- PostgreSQL
-- Supabase
+* PostgreSQL
+* Prisma
+* Supabase
+
+### Infrastructure
+
+* Docker
+* Linux
+* Git
+* GitHub
 
 ### Tools
 
-- Git
-- GitHub
-- Docker
-- Linux
-- Figma
-- Claude Code
-- Cursor
+* Claude Code
+* Cursor
+* VS Code
+* Figma
 
 ---
 
 ## Featured Projects
 
-### LMS Platform
+### Corporate LMS Platform
 
-Learning Management System developed for technical training.
+A Learning Management System designed for corporate training, featuring role-based authentication, course management, assessments, certificates, reporting and a layered architecture focused on maintainability.
 
 **Stack**
 
-- React
-- FastAPI
-- PostgreSQL
-- Supabase
+* Next.js
+* React
+* TypeScript
+* Prisma
+* PostgreSQL
+* Better Auth
+* Docker
 
 ---
 
 ### PMOC Management Platform
 
-Internal platform for preventive maintenance management, service control and operational workflows.
+Business platform for preventive maintenance management, service execution and operational workflows, designed to improve efficiency and process traceability.
 
 ---
 
 ### AI Applications
 
-Projects using LLMs, RAG pipelines and workflow automation to improve productivity and technical support.
+AI-powered assistants, Retrieval-Augmented Generation (RAG) pipelines and workflow automations that improve technical support and internal productivity.
+
+---
+
+## Engineering Principles
+
+* Build maintainable software over quick fixes.
+* Keep business rules isolated from the presentation layer.
+* Prefer simplicity over unnecessary complexity.
+* Automate repetitive work whenever possible.
+* Design systems to evolve.
+* Write code that is easy to understand and maintain.
 
 ---
 
 ## Currently Learning
 
-- Software Architecture
-- System Design
-- Clean Architecture
-- DevOps
-- Cloud Infrastructure
-- AI Engineering
+* Software Architecture
+* System Design
+* Clean Architecture
+* DevOps
+* Cloud Infrastructure
+* AI Engineering
+* Performance Optimization
 
 ---
 
-## Connect with me
+## Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/eduardo-gomes-pb/
-- Portfolio: Coming Soon
+* LinkedIn: https://www.linkedin.com/in/eduardo-gomes-pb/
+* GitHub: https://github.com/gomesbeduardo/
+* Portfolio: Coming Soon
