@@ -1,16 +1,108 @@
-## Hi there 👋
+# Eduardo Gomes
 
-<!--
-**gomesbeduardo/gomesbeduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer • Information Systems Student • Building software that solves real business problems**
 
-Here are some ideas to get you started:
+I'm a Full Stack Developer focused on building scalable web applications, internal platforms and AI-powered solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I work at CentralEng, where I'm responsible for the company's technology ecosystem—from software development and automation to infrastructure and IT operations.
+
+Besides developing products, I'm constantly improving my skills in software architecture, backend engineering and modern web technologies.
+
+---
+
+## About me
+
+- Full Stack Developer
+- Information Systems Student
+- Working with real production systems
+- Passionate about clean architecture and software engineering
+- Interested in AI, automation and scalable SaaS products
+
+---
+
+## Current Focus
+
+- React & TypeScript
+- FastAPI
+- PostgreSQL
+- Supabase
+- AI Integrations
+- Software Architecture
+- Product Engineering
+
+---
+
+## Tech Stack
+
+### Frontend
+
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
+
+### Backend
+
+- Python
+- FastAPI
+- Node.js
+
+### Database
+
+- PostgreSQL
+- Supabase
+
+### Tools
+
+- Git
+- GitHub
+- Docker
+- Linux
+- Figma
+- Claude Code
+- Cursor
+
+---
+
+## Featured Projects
+
+### LMS Platform
+
+Learning Management System developed for technical training.
+
+**Stack**
+
+- React
+- FastAPI
+- PostgreSQL
+- Supabase
+
+---
+
+### PMOC Management Platform
+
+Internal platform for preventive maintenance management, service control and operational workflows.
+
+---
+
+### AI Applications
+
+Projects using LLMs, RAG pipelines and workflow automation to improve productivity and technical support.
+
+---
+
+## Currently Learning
+
+- Software Architecture
+- System Design
+- Clean Architecture
+- DevOps
+- Cloud Infrastructure
+- AI Engineering
+
+---
+
+## Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/eduardo-gomes-pb/
+- Portfolio: Coming Soon
