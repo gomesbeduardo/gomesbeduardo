@@ -72,9 +72,15 @@ My main interests are software architecture, backend engineering, AI integration
 
 ## Featured Projects
 
+> Some of the projects below are still under active development. Current status is noted in each one.
+
 ### Corporate LMS Platform
 
+`Status: In development — final stage`
+
 A Learning Management System designed for corporate training, featuring role-based authentication, course management, assessments, certificates, reporting and a layered architecture focused on maintainability.
+
+Core modules are implemented and the project is currently in its final development stage, focused on refinement, testing and preparation for release.
 
 **Stack**
 
@@ -90,7 +96,11 @@ A Learning Management System designed for corporate training, featuring role-bas
 
 ### PMOC Management Platform
 
+`Status: In development — requirements gathering & software engineering`
+
 Business platform for preventive maintenance management, service execution and operational workflows, designed to improve efficiency and process traceability.
+
+The project is in its early stage, currently focused on requirements gathering, business process mapping and software engineering activities such as domain modeling and architecture definition.
 
 ---
 
