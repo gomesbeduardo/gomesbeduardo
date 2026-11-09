@@ -12,7 +12,7 @@
 ## About me
 
 - **Full-Stack Developer & IT Analyst at CentralEng**, an HVAC engineering company: I build the internal systems, including an LMS in production used by 20 employees and the PMOC maintenance management system, whose development I lead.
-- **Development intern at Asten by AVMB**, on the Innovation team.
+- **Development intern at Asten AVMB**, on the Innovation team.
 - **Information Systems student** at Antonio Meneghetti Faculdade (AMF).
 
 ## How I work

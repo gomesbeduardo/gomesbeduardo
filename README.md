@@ -12,7 +12,7 @@
 ## Sobre
 
 - **Desenvolvedor Full Stack e Analista de TI na CentralEng**, empresa de engenharia de climatização: desenvolvo os sistemas internos, entre eles um LMS em produção usado por 20 colaboradores e o sistema de gestão de PMOC, cujo desenvolvimento lidero.
-- **Estagiário de desenvolvimento na Asten by AVMB**, no time de Inovação.
+- **Estagiário de desenvolvimento na Asten AVMB**, no time de Inovação.
 - **Estudante de Sistemas de Informação** na Antonio Meneghetti Faculdade (AMF).
 
 ## Como trabalho
