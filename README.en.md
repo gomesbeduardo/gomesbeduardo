@@ -17,12 +17,12 @@
 
 ## How I work
 
-1. **Spec before code:** every change starts with a short spec with verifiable acceptance criteria.
-2. **TDD:** the test fails first, then passes.
-3. **PR with review and CI:** every change goes through a PR, and CI runs tests, type checks and build.
-4. **Held-out evaluation for AI features:** a set of cases stays out of prompt tuning and runs only once.
+1. **Spec before code:** I write a short spec with verifiable acceptance criteria before each change.
+2. **TDD:** I write the test before the implementation and watch it fail.
+3. **PR with review and CI:** each change goes through a PR, and CI runs tests, type checks and build.
+4. **Held-out evaluation for AI features:** I keep a set of cases out of prompt tuning and run it once, at the end.
 
-[leadgate](https://github.com/gomesbeduardo/leadgate) shows the whole process: versioned specs, reviewed PRs and more than 400 automated tests.
+You can see this process in [leadgate](https://github.com/gomesbeduardo/leadgate): versioned specs, reviewed PRs and more than 400 automated tests.
 
 ## Stack
 
@@ -50,14 +50,14 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/gomesbeduardo/plataforma-LMS-corp">Corporate LMS</a></h3>
-      <p>Courses, progress per employee, assessments and auto-generated PDF certificates, with reports for management.</p>
+      <p>Course platform with progress per employee, assessments, PDF certificates and reports for management.</p>
       <p><b>The private version runs in production at CentralEng, used by 20 employees.</b></p>
       <img src="https://skillicons.dev/icons?i=nextjs,ts,prisma,postgres,docker" height="32" alt="Next.js, TypeScript, Prisma, PostgreSQL, Docker" />
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/gomesbeduardo/leadgate">leadgate</a></h3>
-      <p>Lead triage for an HVAC company. leadgate chats with the customer, asks for the missing data and sends sales a validated JSON. Every model answer goes through code validation (Zod and fixed rules) before moving on.</p>
-      <p><b>More than 400 automated tests, a regression set and a held-out set run exactly once.</b></p>
+      <p>Lead triage for an HVAC company. leadgate chats with the customer until it has the data sales needs, then sends a validated JSON. The code checks each model answer (Zod and fixed rules) before moving on.</p>
+      <p><b>More than 400 automated tests and a held-out evaluation set, run once.</b></p>
       <img src="https://skillicons.dev/icons?i=ts,nodejs,docker" height="32" alt="TypeScript, Node.js, Docker" />
       <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
       <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square" alt="Zod" />
@@ -65,18 +65,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/gomesbeduardo/bot-reze">bot-reze</a></h3>
-      <p>Announcement bot for Discord. Each post gets a private preview and asks for confirmation before notifying the server.</p>
-      <p><b>In use in a Discord community with more than 200 members.</b></p>
-      <img src="https://skillicons.dev/icons?i=ts,nodejs,discordjs,vitest,docker" height="32" alt="TypeScript, Node.js, discord.js, Vitest, Docker" />
-    </td>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/gomesbeduardo/eventHub-academico">EventHub Acadêmico</a></h3>
       <p>Academic event management with seat control, a metrics dashboard for organizers and event recommendations. Team project.</p>
       <img src="https://skillicons.dev/icons?i=react,express,prisma,postgres" height="32" alt="React, Express, Prisma, PostgreSQL" />
     </td>
   </tr>
 </table>
+
+**Side job:** [bot-reze](https://github.com/gomesbeduardo/bot-reze), a Discord announcement bot I built for a streamer.
 
 <details>
   <summary><b>Study projects</b></summary>
