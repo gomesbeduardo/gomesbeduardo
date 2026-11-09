@@ -73,10 +73,17 @@ No [leadgate](https://github.com/gomesbeduardo/leadgate) você vê esse processo
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3>🗓️ <a href="https://github.com/gomesbeduardo/eventHub-academico">EventHub Acadêmico</a> <sub>projeto em equipe</sub></h3>
       <p>Gestão de eventos acadêmicos com controle de vagas, painel de métricas para organizadores e recomendação de eventos.</p>
       <img src="https://skillicons.dev/icons?i=react,express,prisma,postgres" height="32" alt="React, Express, Prisma, PostgreSQL" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔧 <a href="https://github.com/gomesbeduardo/centralEng_AI_Chatbot">Assistente de suporte com IA</a> <sub>MVP, 2025</sub></h3>
+      <p>Orienta técnicos de campo no diagnóstico de equipamentos de climatização quando eles não têm o manual do fabricante. Integra GPT, Supabase e n8n.</p>
+      <img src="https://skillicons.dev/icons?i=python,supabase" height="32" alt="Python, Supabase" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
     </td>
   </tr>
 </table>
@@ -88,7 +95,6 @@ No [leadgate](https://github.com/gomesbeduardo/leadgate) você vê esse processo
   <br />
 
 - [**Help Desk**](https://github.com/gomesbeduardo/helpdesk-system-desenvolvimento_sis1): sistema de chamados com acessos separados para usuário, técnico e administrador. React · Express · PostgreSQL.
-- [**Assistente de suporte com IA**](https://github.com/gomesbeduardo/centralEng_AI_Chatbot) (MVP, 2025): orientação de diagnóstico de climatização para técnicos de campo. Python · Supabase · OpenAI · n8n.
 
 </details>
 
