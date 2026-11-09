@@ -18,7 +18,7 @@
 - **Estagiário de desenvolvimento na Asten AVMB**, no time de Inovação.
 - **Estudante de Sistemas de Informação** na Antonio Meneghetti Faculdade (AMF).
 
-## 🧪 Como trabalho
+## Como trabalho
 
 <table>
   <tr>
@@ -31,7 +31,7 @@
 
 No [leadgate](https://github.com/gomesbeduardo/leadgate) você vê esse processo: specs versionadas, PRs revisados e mais de 400 testes automatizados.
 
-## 🛠️ Stack
+## Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,prisma,tailwind,docker&perline=8" alt="TypeScript, React, Next.js, Node.js, PostgreSQL, Prisma, Tailwind CSS, Docker" />
