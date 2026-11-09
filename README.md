@@ -20,7 +20,7 @@
 1. **Spec antes do código:** cada mudança começa por uma spec curta, com critérios de aceite verificáveis.
 2. **TDD:** o teste falha primeiro e passa depois.
 3. **PR com revisão e CI:** toda mudança entra por PR, e o CI roda testes, checagem de tipos e build.
-4. **Avaliação reservada nos recursos com IA:** um conjunto de casos fica separado e roda uma única vez, para o resultado não ser inflado por ajuste no prompt.
+4. **Avaliação reservada nos recursos com IA:** um conjunto de casos fica fora do ajuste do prompt e roda uma única vez.
 
 O [leadgate](https://github.com/gomesbeduardo/leadgate) mostra esse processo inteiro: specs versionadas, PRs revisados e mais de 400 testes automatizados.
 
@@ -50,13 +50,13 @@ O [leadgate](https://github.com/gomesbeduardo/leadgate) mostra esse processo int
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/gomesbeduardo/plataforma-LMS-corp">LMS corporativo</a></h3>
-      <p>O treinamento interno estava espalhado em arquivos e mensagens. O LMS junta tudo: cursos, progresso por colaborador, avaliações e certificados em PDF emitidos sozinhos, com relatórios para a gestão.</p>
-      <p><b>A versão privada, em produção, é usada por 20 colaboradores da CentralEng.</b></p>
+      <p>Cursos, progresso por colaborador, avaliações e certificados em PDF gerados automaticamente, com relatórios para a gestão.</p>
+      <p><b>A versão privada roda em produção na CentralEng, com 20 colaboradores.</b></p>
       <img src="https://skillicons.dev/icons?i=nextjs,ts,prisma,postgres,docker" height="32" alt="Next.js, TypeScript, Prisma, PostgreSQL, Docker" />
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/gomesbeduardo/leadgate">leadgate</a></h3>
-      <p>Uma empresa de climatização recebe todo pedido no mesmo balde. O leadgate conversa com o lead, pede só o que falta e entrega a vendas um JSON validado. O modelo propõe e o código decide: toda resposta passa por regras fixas antes de chegar a alguém.</p>
+      <p>Triagem de leads de uma empresa de climatização. O leadgate conversa com o cliente, pede os dados que faltam e envia a vendas um JSON validado. Cada resposta do modelo passa por validação em código (Zod e regras fixas) antes de seguir.</p>
       <p><b>Mais de 400 testes automatizados, um conjunto de regressão e um conjunto separado rodado uma única vez.</b></p>
       <img src="https://skillicons.dev/icons?i=ts,nodejs,docker" height="32" alt="TypeScript, Node.js, Docker" />
       <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
@@ -66,8 +66,8 @@ O [leadgate](https://github.com/gomesbeduardo/leadgate) mostra esse processo int
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/gomesbeduardo/bot-reze">bot-reze</a></h3>
-      <p>Anúncio com erro de digitação ou link quebrado notifica o servidor inteiro e não tem volta. Agora todo post ganha uma prévia privada e uma confirmação antes de alguém ser avisado.</p>
-      <p><b>Roda numa comunidade do Discord com mais de 200 membros ativos, sem incidente causado pela lógica do bot desde o lançamento.</b></p>
+      <p>Bot de anúncios para Discord. Cada post gera uma prévia privada e pede confirmação antes de notificar o servidor.</p>
+      <p><b>Em uso numa comunidade do Discord com mais de 200 membros.</b></p>
       <img src="https://skillicons.dev/icons?i=ts,nodejs,discordjs,vitest,docker" height="32" alt="TypeScript, Node.js, discord.js, Vitest, Docker" />
     </td>
     <td width="50%" valign="top">

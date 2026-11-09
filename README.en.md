@@ -20,7 +20,7 @@
 1. **Spec before code:** every change starts with a short spec with verifiable acceptance criteria.
 2. **TDD:** the test fails first, then passes.
 3. **PR with review and CI:** every change goes through a PR, and CI runs tests, type checks and build.
-4. **Held-out evaluation for AI features:** a set of cases is kept apart and runs only once, so prompt tuning can't inflate the result.
+4. **Held-out evaluation for AI features:** a set of cases stays out of prompt tuning and runs only once.
 
 [leadgate](https://github.com/gomesbeduardo/leadgate) shows the whole process: versioned specs, reviewed PRs and more than 400 automated tests.
 
@@ -50,13 +50,13 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/gomesbeduardo/plataforma-LMS-corp">Corporate LMS</a></h3>
-      <p>Internal training was scattered across files and messages. The LMS brings it into one place: courses, progress per employee, assessments and PDF certificates issued automatically, with admin reports.</p>
-      <p><b>The private production version is used by 20 employees at CentralEng.</b></p>
+      <p>Courses, progress per employee, assessments and auto-generated PDF certificates, with reports for management.</p>
+      <p><b>The private version runs in production at CentralEng, used by 20 employees.</b></p>
       <img src="https://skillicons.dev/icons?i=nextjs,ts,prisma,postgres,docker" height="32" alt="Next.js, TypeScript, Prisma, PostgreSQL, Docker" />
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/gomesbeduardo/leadgate">leadgate</a></h3>
-      <p>An HVAC company gets every request in one bucket. leadgate chats with the lead, asks only for what's missing and hands sales a validated JSON. The model proposes, the code decides: every answer passes fixed rules before reaching anyone.</p>
+      <p>Lead triage for an HVAC company. leadgate chats with the customer, asks for the missing data and sends sales a validated JSON. Every model answer goes through code validation (Zod and fixed rules) before moving on.</p>
       <p><b>More than 400 automated tests, a regression set and a held-out set run exactly once.</b></p>
       <img src="https://skillicons.dev/icons?i=ts,nodejs,docker" height="32" alt="TypeScript, Node.js, Docker" />
       <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
@@ -66,8 +66,8 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/gomesbeduardo/bot-reze">bot-reze</a></h3>
-      <p>Announcements with typos or broken links ping the whole server, and can't be undone. Every post now gets a private preview and a confirm step before anyone is notified.</p>
-      <p><b>Runs a Discord community with 200+ active members, with no incident caused by the bot's own logic since launch.</b></p>
+      <p>Announcement bot for Discord. Each post gets a private preview and asks for confirmation before notifying the server.</p>
+      <p><b>In use in a Discord community with more than 200 members.</b></p>
       <img src="https://skillicons.dev/icons?i=ts,nodejs,discordjs,vitest,docker" height="32" alt="TypeScript, Node.js, discord.js, Vitest, Docker" />
     </td>
     <td width="50%" valign="top">
