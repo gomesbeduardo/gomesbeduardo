@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardo-gomes-pb/"><img src="https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Santa%20Maria%2C%20RS-UTC--3-4b5563?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1f2937" alt="Santa Maria, RS, UTC-3" />
+  <img src="https://img.shields.io/badge/Brasil-UTC--3-4b5563?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1f2937" alt="Brasil, UTC-3" />
   <img src="https://img.shields.io/badge/Aberto%20a-vagas%20e%20freelas-6b7280?style=for-the-badge&labelColor=1f2937" alt="Aberto a vagas e freelas" />
 </p>
 
@@ -94,6 +94,6 @@ No [leadgate](https://github.com/gomesbeduardo/leadgate) você vê esse processo
 
 ## 📫 Contato
 
-Aberto a vagas de desenvolvimento, presenciais em Santa Maria ou remotas, e a freelas. Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/eduardo-gomes-pb/).
+Aberto a vagas de desenvolvimento e a freelas. Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/eduardo-gomes-pb/).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b5563,100:111827&height=100&section=footer" width="100%" alt="" />

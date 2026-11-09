@@ -94,6 +94,6 @@ You can see this process in [leadgate](https://github.com/gomesbeduardo/leadgate
 
 ## 📫 Contact
 
-Open to developer roles, on-site in Santa Maria or remote, and to freelance work. Reach me on [LinkedIn](https://www.linkedin.com/in/eduardo-gomes-pb/).
+Open to developer roles and freelance work. Reach me on [LinkedIn](https://www.linkedin.com/in/eduardo-gomes-pb/).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b5563,100:111827&height=100&section=footer" width="100%" alt="" />
