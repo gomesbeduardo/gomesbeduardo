@@ -122,4 +122,6 @@ No [leadgate](https://github.com/gomesbeduardo/leadgate) você vê esse processo
 
 Aberto a vagas de desenvolvimento e a freelas. Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/eduardo-gomes-pb/).
 
+<p align="center"><sub><i>"In the face of ambiguity, refuse the temptation to guess."</i><br />Tim Peters, The Zen of Python</sub></p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b5563,100:111827&height=100&section=footer" width="100%" alt="" />
