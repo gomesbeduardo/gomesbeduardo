@@ -107,17 +107,6 @@ You can see this process in [leadgate](https://github.com/gomesbeduardo/leadgate
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gomesbeduardo&theme=github_dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gomesbeduardo&theme=github" width="49%" alt="GitHub commits, PRs and issues" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gomesbeduardo&theme=github_dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gomesbeduardo&theme=github" width="49%" alt="Languages by commit" />
-  </picture>
-</p>
-
 ## 📫 Contact
 
 Open to developer roles and freelance work. Reach me on [LinkedIn](https://www.linkedin.com/in/eduardo-gomes-pb/).
