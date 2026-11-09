@@ -98,8 +98,30 @@ No [leadgate](https://github.com/gomesbeduardo/leadgate) você vê esse processo
 
 </details>
 
+## GitHub em números
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gomesbeduardo&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gomesbeduardo&theme=github" width="100%" alt="Contribuições no GitHub por mês" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gomesbeduardo&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gomesbeduardo&theme=github" width="49%" alt="Commits, PRs e issues no GitHub" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gomesbeduardo&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gomesbeduardo&theme=github" width="49%" alt="Linguagens por commit" />
+  </picture>
+</p>
+
 ## 📫 Contato
 
 Aberto a vagas de desenvolvimento e a freelas. Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/eduardo-gomes-pb/).
+
+<p align="center"><sub><i>"In the face of ambiguity, refuse the temptation to guess."</i><br />Tim Peters, The Zen of Python</sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b5563,100:111827&height=100&section=footer" width="100%" alt="" />
