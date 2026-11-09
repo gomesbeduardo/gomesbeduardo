@@ -18,7 +18,7 @@
 - **Development intern at Asten AVMB**, on the Innovation team.
 - **Information Systems student** at Antonio Meneghetti Faculdade (AMF).
 
-## 🧪 How I work
+## How I work
 
 <table>
   <tr>
@@ -31,7 +31,7 @@
 
 You can see this process in [leadgate](https://github.com/gomesbeduardo/leadgate): versioned specs, reviewed PRs and more than 400 automated tests.
 
-## 🛠️ Stack
+## Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,prisma,tailwind,docker&perline=8" alt="TypeScript, React, Next.js, Node.js, PostgreSQL, Prisma, Tailwind CSS, Docker" />
@@ -97,6 +97,26 @@ You can see this process in [leadgate](https://github.com/gomesbeduardo/leadgate
 - [**Help Desk**](https://github.com/gomesbeduardo/helpdesk-system-desenvolvimento_sis1): ticketing system with separate access for users, technicians and admins. React · Express · PostgreSQL.
 
 </details>
+
+## GitHub in numbers
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gomesbeduardo&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gomesbeduardo&theme=github" width="100%" alt="GitHub contributions per month" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gomesbeduardo&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gomesbeduardo&theme=github" width="49%" alt="GitHub commits, PRs and issues" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gomesbeduardo&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gomesbeduardo&theme=github" width="49%" alt="Languages by commit" />
+  </picture>
+</p>
 
 ## 📫 Contact
 
