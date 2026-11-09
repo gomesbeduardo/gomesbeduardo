@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:4b5563&height=180&section=header&text=Eduardo%20Bergoli%20Gomes&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descSize=18&descAlignY=58" width="100%" alt="Eduardo Bergoli Gomes, Full-Stack Developer" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6B7280&center=true&vCenter=true&width=560&lines=TypeScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+PostgreSQL;Internal+systems+in+production;Spec%2C+test+and+reviewed+PR;Open+to+remote+roles+and+freelance" alt="TypeScript, React, Node.js, PostgreSQL. Internal systems in production. Spec, test and reviewed PR. Open to remote roles and freelance." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6B7280&center=true&vCenter=true&width=560&lines=TypeScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+PostgreSQL;LMS+%C2%B7+PMOC+management+%C2%B7+AI+lead+triage;Spec%2C+test+and+reviewed+PR;Open+to+remote+roles+and+freelance" alt="TypeScript, React, Node.js, PostgreSQL. LMS, PMOC management and AI lead triage. Spec, test and reviewed PR. Open to remote roles and freelance." />
 </p>
 
 <p align="center"><a href="README.md">Português</a> · <b>English</b></p>
