@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Eduardo%20Gomes&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descSize=18&descAlignY=58" width="100%" alt="Eduardo Gomes, Full-Stack Developer" />
+<h1 align="center">Eduardo Bergoli Gomes</h1>
+<p align="center">Full-Stack Developer · Brazil</p>
 
 <p align="center"><a href="README.md">Português</a> · <b>English</b></p>
 
@@ -10,13 +11,18 @@
 
 ## About me
 
-Full-stack developer. I like the part of the job where a messy process (spreadsheets, chat groups, manual checks) becomes a small, well-tested system that people actually use.
-
-- **Full-Stack Developer & IT Analyst at CentralEng**, an HVAC engineering company: I build the company's internal software, from requirements to deploy.
+- **Full-Stack Developer & IT Analyst at CentralEng**, an HVAC engineering company: I build the internal systems, including an LMS in production used by 20 employees and the PMOC maintenance management system, whose development I lead.
 - **Development intern at Asten by AVMB**, on the Innovation team.
 - **Information Systems student** at Antonio Meneghetti Faculdade (AMF).
 
-I also build AI features, the same way as everything else: rules written before code, tests seen failing before they pass, review on every PR, and quality measured instead of assumed.
+## How I work
+
+1. **Spec before code:** every change starts with a short spec with verifiable acceptance criteria.
+2. **TDD:** the test fails first, then passes.
+3. **PR with review and CI:** every change goes through a PR, and CI runs tests, type checks and build.
+4. **Held-out evaluation for AI features:** a set of cases is kept apart and runs only once, so prompt tuning can't inflate the result.
+
+[leadgate](https://github.com/gomesbeduardo/leadgate) shows the whole process: versioned specs, reviewed PRs and more than 400 automated tests.
 
 ## Stack
 
@@ -51,7 +57,7 @@ I also build AI features, the same way as everything else: rules written before 
     <td width="50%" valign="top">
       <h3><a href="https://github.com/gomesbeduardo/leadgate">leadgate</a></h3>
       <p>An HVAC company gets every request in one bucket. leadgate chats with the lead, asks only for what's missing and hands sales a validated JSON. The model proposes, the code decides: every answer passes fixed rules before reaching anyone.</p>
-      <p><b>Measured quality: a held-out set run exactly once, a regression set and 400+ automated tests.</b></p>
+      <p><b>More than 400 automated tests, a regression set and a held-out set run exactly once.</b></p>
       <img src="https://skillicons.dev/icons?i=ts,nodejs,docker" height="32" alt="TypeScript, Node.js, Docker" />
       <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
       <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square" alt="Zod" />
@@ -85,4 +91,3 @@ I also build AI features, the same way as everything else: rules written before 
 
 Open to developer roles, on-site in Santa Maria or remote, and to freelance work. Reach me on [LinkedIn](https://www.linkedin.com/in/eduardo-gomes-pb/).
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="" />

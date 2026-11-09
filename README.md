@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Eduardo%20Gomes&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descSize=18&descAlignY=58" width="100%" alt="Eduardo Gomes, Desenvolvedor Full Stack" />
+<h1 align="center">Eduardo Bergoli Gomes</h1>
+<p align="center">Desenvolvedor Full Stack · Santa Maria, RS</p>
 
 <p align="center"><b>Português</b> · <a href="README.en.md">English</a></p>
 
@@ -10,13 +11,18 @@
 
 ## Sobre
 
-Desenvolvedor full-stack. Gosto da parte do trabalho em que um processo bagunçado (planilha, grupo de mensagem, conferência manual) vira um sistema pequeno, testado e que as pessoas usam.
-
-- **Desenvolvedor Full Stack e Analista de TI na CentralEng**, empresa de engenharia de climatização: desenvolvo os sistemas internos, do levantamento ao deploy.
+- **Desenvolvedor Full Stack e Analista de TI na CentralEng**, empresa de engenharia de climatização: desenvolvo os sistemas internos, entre eles um LMS em produção usado por 20 colaboradores e o sistema de gestão de PMOC, cujo desenvolvimento lidero.
 - **Estagiário de desenvolvimento na Asten by AVMB**, no time de Inovação.
 - **Estudante de Sistemas de Informação** na Antonio Meneghetti Faculdade (AMF).
 
-Também construo recursos com IA, do mesmo jeito que o resto: regra escrita antes do código, teste visto falhando antes de passar, revisão em cada PR e qualidade medida, não presumida.
+## Como trabalho
+
+1. **Spec antes do código:** cada mudança começa por uma spec curta, com critérios de aceite verificáveis.
+2. **TDD:** o teste falha primeiro e passa depois.
+3. **PR com revisão e CI:** toda mudança entra por PR, e o CI roda testes, checagem de tipos e build.
+4. **Avaliação reservada nos recursos com IA:** um conjunto de casos fica separado e roda uma única vez, para o resultado não ser inflado por ajuste no prompt.
+
+O [leadgate](https://github.com/gomesbeduardo/leadgate) mostra esse processo inteiro: specs versionadas, PRs revisados e mais de 400 testes automatizados.
 
 ## Stack
 
@@ -51,7 +57,7 @@ Também construo recursos com IA, do mesmo jeito que o resto: regra escrita ante
     <td width="50%" valign="top">
       <h3><a href="https://github.com/gomesbeduardo/leadgate">leadgate</a></h3>
       <p>Uma empresa de climatização recebe todo pedido no mesmo balde. O leadgate conversa com o lead, pede só o que falta e entrega a vendas um JSON validado. O modelo propõe e o código decide: toda resposta passa por regras fixas antes de chegar a alguém.</p>
-      <p><b>Qualidade medida: conjunto separado rodado uma única vez, conjunto de regressão e mais de 400 testes automatizados.</b></p>
+      <p><b>Mais de 400 testes automatizados, um conjunto de regressão e um conjunto separado rodado uma única vez.</b></p>
       <img src="https://skillicons.dev/icons?i=ts,nodejs,docker" height="32" alt="TypeScript, Node.js, Docker" />
       <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
       <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square" alt="Zod" />
@@ -85,4 +91,3 @@ Também construo recursos com IA, do mesmo jeito que o resto: regra escrita ante
 
 Aberto a vagas de desenvolvimento, presenciais em Santa Maria ou remotas, e a freelas. Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/eduardo-gomes-pb/).
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="" />
