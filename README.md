@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:4b5563&height=180&section=header&text=Eduardo%20Bergoli%20Gomes&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descSize=18&descAlignY=58" width="100%" alt="Eduardo Bergoli Gomes, Desenvolvedor Full Stack" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6B7280&center=true&vCenter=true&width=680&lines=TypeScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+PostgreSQL;LMS+%C2%B7+gest%C3%A3o+de+PMOC+%C2%B7+triagem+de+leads+com+IA;Spec%2C+teste+e+PR+revisado;Aberto+a+vagas+e+freelas" alt="TypeScript, React, Node.js, PostgreSQL. LMS, gestão de PMOC e triagem de leads com IA. Spec, teste e PR revisado. Aberto a vagas e freelas." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6B7280&center=true&vCenter=true&width=560&lines=TypeScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+PostgreSQL;Spec%2C+teste+e+PR+revisado;Aberto+a+vagas+e+freelas" alt="TypeScript, React, Node.js, PostgreSQL. Spec, teste e PR revisado. Aberto a vagas e freelas." />
 </p>
 
 <p align="center"><b>Português</b> · <a href="README.en.md">English</a></p>
