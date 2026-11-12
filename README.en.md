@@ -7,10 +7,24 @@
 <p align="center"><a href="README.md">Português</a> · <b>English</b></p>
 
 <p align="center">
+  <a href="https://gomesbeduardo.github.io/en/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/eduardo-gomes-pb/"><img src="https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Brazil-UTC--3-4b5563?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1f2937" alt="Brazil, UTC-3" />
   <img src="https://img.shields.io/badge/Open%20to-remote%20%26%20freelance-6b7280?style=for-the-badge&labelColor=1f2937" alt="Open to remote roles and freelance" />
 </p>
+
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://gomesbeduardo.github.io/en/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gomesbeduardo/gomesbeduardo.github.io/main/docs/readme/inicio-escuro.png" />
+      <img src="https://raw.githubusercontent.com/gomesbeduardo/gomesbeduardo.github.io/main/docs/readme/inicio-claro.png" width="80%" alt="Home page of Eduardo Gomes's portfolio, with the name in large type, a framed photo and the View projects and Download résumé buttons" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">At <a href="https://gomesbeduardo.github.io/en/"><b>gomesbeduardo.github.io</b></a> you can see my projects, my path since 2018, my GitHub numbers and my résumé as a PDF, in English and Portuguese.</p>
 
 ## About me
 
