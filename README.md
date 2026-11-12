@@ -7,24 +7,11 @@
 <p align="center"><b>Português</b> · <a href="README.en.md">English</a></p>
 
 <p align="center">
-  <a href="https://gomesbeduardo.github.io/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" /></a>
   <a href="https://www.linkedin.com/in/eduardo-gomes-pb/"><img src="https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Brasil-UTC--3-4b5563?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1f2937" alt="Brasil, UTC-3" />
+  <a href="https://gomesbeduardo.github.io/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-gomesbeduardo.github.io-8a4f00?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=1f2937" alt="Portfólio: gomesbeduardo.github.io" /></a>
   <img src="https://img.shields.io/badge/Aberto%20a-vagas%20e%20freelas-6b7280?style=for-the-badge&labelColor=1f2937" alt="Aberto a vagas e freelas" />
 </p>
-
-## 🌐 Portfólio
-
-<p align="center">
-  <a href="https://gomesbeduardo.github.io/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gomesbeduardo/gomesbeduardo.github.io/main/docs/readme/inicio-escuro.png" />
-      <img src="https://raw.githubusercontent.com/gomesbeduardo/gomesbeduardo.github.io/main/docs/readme/inicio-claro.png" width="80%" alt="Página inicial do portfólio de Eduardo Gomes, com o nome em letras grandes, a foto em moldura e os botões Ver projetos e Baixar currículo" />
-    </picture>
-  </a>
-</p>
-
-<p align="center">Em <a href="https://gomesbeduardo.github.io/"><b>gomesbeduardo.github.io</b></a> estão os meus projetos, a trajetória desde 2018, os números do meu GitHub e o currículo em PDF, em português e inglês.</p>
 
 ## Sobre
 
